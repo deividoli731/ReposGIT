@@ -16,7 +16,7 @@ class Program
                     Math.Pow(x2 - x1, 2) +
                     Math.Pow(y2 - y1, 2)
                     );
-        Console.WriteLine("A distância entre os pontos é: " + distancia);
+        Console.WriteLine("A distância entre os é: " + distancia);
         Console.ReadKey();
     }
 }
